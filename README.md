@@ -8,7 +8,7 @@ Esta é uma solução para o desafio do componente de código QR no [Frontend Me
 
 ![Design preview for the QR code component coding challenge](./design/desktop-preview.jpg)
 
-##Tecnologias Utilizadas
+## Tecnologias Utilizadas
 <ul>
   <li>HTML</li>
   <li>CSS</li>
